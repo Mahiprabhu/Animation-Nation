@@ -1,18 +1,18 @@
-div#one {
+div#onefile {
   height: 100px;
   width: 100%;
   background: #fbd266;
   animation: slidein 4s linear 4s infinite alternate;
 }
 
-div#two {
+div#twofile {
   height: 100px;
   width: 100%;
   background: #d76735;
   animation: slidein .3s linear 1s infinite alternate;
 }
 
-div#three {
+div#threefile {
   height: 100px;
   width: 100%;
   background: #8fb0a9;
