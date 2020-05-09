@@ -2451,7 +2451,7 @@
 		pageLink: './Art/MahiAnimatron/index.html',
 		imageLink: './Art/MahiAnimatron/trance.gif',
 		author: 'Mahiprabhu',
-		githubLink: 'https://github.com/MahiAnimatron',
+		githubLink: 'https://github.com/Mahiprabhu',
 	},
 ];
 
