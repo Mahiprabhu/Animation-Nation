@@ -2445,7 +2445,14 @@
     author: 'jahid hasan',
     githubLink: 'https://github.com/jahidhasan299/',
 
-   }
+   },
+   {
+		artName: 'MahiAnimatron',
+		pageLink: './Art/MahiAnimatron/index.html',
+		imageLink: './Art/MahiAnimatron/trance.gif',
+		author: 'Mahiprabhu',
+		githubLink: 'https://github.com/MahiAnimatron',
+	},
 ];
 
 // +--------------------------------------------------------------------------------+
